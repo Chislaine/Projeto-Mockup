@@ -5,5 +5,5 @@
 </br>
 <p>Tela de Cadastro</p>
 </br>
-<img src="Tela 1.png" width= "100px" height = "300px">
+<img src="Tela 1.png" width= "200px" height = "300px">
 
