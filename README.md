@@ -36,7 +36,7 @@
   <img class="tela" src="Tela 4.png">
 
   </br>
-  <p>Acesso a plataforma checken app</p>
+  <p>Acesso a plataforma Chicken app</p>
   </br>
   <img class="tela" src="Tela 5.png">
 
