@@ -5,11 +5,11 @@
 <html>
 
 <head>
-<style>
-img{
-width: 200px;
-height: 300px;
-}
+  <style>
+    img{
+    width: 200px;
+    height: 300px;
+    }
 </style>
 </head>
   
@@ -19,42 +19,42 @@ height: 300px;
   </br>
   <p>Tela de Cadastro</p>
   </br>
-  <img src="Tela 1.png">
+  <img class="tela" src="Tela 1.png">
 
   </br>
   <p>Tela de Dados</p>
   </br>
-  <img src="Tela 2.png">
+  <img class="tela" src="Tela 2.png">
 
   </br>
   <p>Recuperação de senha</p>
   </br>
-  <img src="Tela 3.png">
+  <img class="tela" src="Tela 3.png">
 
   </br>
   <p>Tela de Cadastro</p>
   </br>
-  <img src="Tela 4.png">
+  <img class="tela" src="Tela 4.png">
 
   </br>
   <p>Tela de Cadastro</p>
   </br>
-  <img src="Tela 5.png">
+  <img class="tela" src="Tela 5.png">
 
   </br>
   <p>Tela de Cadastro</p>
   </br>
-  <img src="Tela 6.png">
+  <img class="tela" src="Tela 6.png">
 
   </br>
   <p>Tela de Cadastro</p>
   </br>
-  <img src="Tela 7.png">
+  <img class="tela" src="Tela 7.png">
 
   </br>
   <p>Tela de Cadastro</p>
   </br>
-  <img src="Tela 8.png">
+  <img class="tela" src="Tela 8.png">
 
 </body>
 </html>
