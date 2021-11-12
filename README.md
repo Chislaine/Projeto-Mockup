@@ -6,7 +6,7 @@
 
 <head>
   <style>
-    img{
+    .tela{
     width: 200px;
     height: 300px;
     }
