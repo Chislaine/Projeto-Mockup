@@ -5,12 +5,12 @@
 <html>
 
 <head>
-  <style>
-    img{
-    width: 200px;
-    height: 300px;
-    }
-  </style>
+<style>
+img{
+width: 200px;
+height: 300px;
+}
+</style>
 </head>
   
 <body>
