@@ -1,6 +1,6 @@
 # Projeto-Mockup
 
-### O projeto mockup é uma simulação da criação de um aplicativo para controle de produção e vendas de ovos, este aplicativo é direcionado ao público que trabalha com granjas de galinhas poedeiras. 
+### O projeto mockup utilizando plataforma Marvel. Se trata de uma simulação da criação de um aplicativo para controle de produção e vendas de ovos, este aplicativo é direcionado ao público que trabalha com granjas de galinhas poedeiras. 
 
 
 ##### acesso ao projeto
@@ -31,27 +31,27 @@
   <img class="tela" src="Tela 3.png">
 
   </br>
-  <p>Tela de Cadastro</p>
+  <p>Link para recuperação de senha</p>
   </br>
   <img class="tela" src="Tela 4.png">
 
   </br>
-  <p>Tela de Cadastro</p>
+  <p>Acesso a plataforma checken app</p>
   </br>
   <img class="tela" src="Tela 5.png">
 
   </br>
-  <p>Tela de Cadastro</p>
+  <p>Acesso ao controle de vendas</p>
   </br>
   <img class="tela" src="Tela 6.png">
 
   </br>
-  <p>Tela de Cadastro</p>
+  <p>Valores de vendas</p>
   </br>
   <img class="tela" src="Tela 7.png">
 
   </br>
-  <p>Tela de Cadastro</p>
+  <p>Erro de login e senha de acesso</p>
   </br>
   <img class="tela" src="Tela 8.png">
 
